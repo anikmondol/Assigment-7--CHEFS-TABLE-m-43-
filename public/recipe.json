@@ -1,0 +1,31 @@
+[
+    {
+      "Recipe_image": "https://i.ibb.co/Hr3YNMX/cart-1.png",
+      "recipe_id": "1",
+      "Recipe_name": "Chicken Salad",
+      "Short_description": "Classic Italian pasta dish savory meat sauce.",
+      "Ingredients_array": [
+        "500g ground beef",
+        "1 onion, chopped",
+        "chopped",
+        "2 cloves garlic, minced"
+      ],
+      "Preparing_time": "25",
+      "Calories": "450"
+    },
+    {
+      "Recipe_image": "https://i.ibb.co/WtYtdnf/cart-2.png",
+      "recipe_id": "2",
+      "Recipe_name": "Chicken Nodules",
+      "Short_description": "Classic Italian pasta dish savory meat sauce.",
+      "Ingredients_array": [
+        "500g ground beef",
+        "1 onion, chopped",
+        "chopped",
+        "2 cloves garlic, minced"
+      ],
+      "Preparing_time": "30",
+      "Calories": "600"
+    }
+  ]
+  
